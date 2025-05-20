@@ -1,0 +1,15 @@
+# Pie Chart Maker
+
+> Create and customize beautiful pie charts online for free. Easily input your data, adjust appearance, and download your charts in various formats.
+
+Pie Chart Maker is a user-friendly web application designed for anyone needing to visualize data quickly and effectively. No registration is required, and all processing is done in your browser for privacy.
+
+## 核心内容
+- [Chart Creation Interface](https://piechartmaker.cc/): The main tool for inputting data, customizing chart properties (title, colors, legend, hole size for donut charts), and previewing the chart live.
+- [Download Options](https://piechartmaker.cc/): Users can download their generated pie charts as PNG, JPEG, or SVG files directly from the interface.
+
+## 常用资源
+- [How To Use](https://piechartmaker.cc/#how-to-use-section): Step-by-step guide on creating your first pie chart with our tool. (Note: This is a section on the main page, update if it becomes a separate page)
+- [Features](https://piechartmaker.cc/#features-section): Overview of the key capabilities and customization options available. (Note: This is a section on the main page, update if it becomes a separate page)
+- [FAQ](https://piechartmaker.cc/#faq-section): Answers to common questions about using Pie Chart Maker, its features, and data privacy. (Note: This is a section on the main page, update if it becomes a separate page)
+- [Contact](mailto:support@piechartmaker.cc): For support or inquiries, please email us at support@piechartmaker.cc.
